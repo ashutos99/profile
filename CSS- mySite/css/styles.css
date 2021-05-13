@@ -1,0 +1,133 @@
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.profile{
+  width:40%;
+  margin: 100px auto 100px auto;
+}
+
+.ashu {
+  height: 200px;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 4.5rem;
+  color: #66BFBF;
+  margin: 20px auto 0 auto;
+}
+
+h2 {
+  font-weight: bold;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  text-align: center;
+  font-family: 'Itim', cursive;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.Dev {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.mountain {
+  margin-top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.chilli-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.code-img {
+  width: 25%;
+  margin-right: 30px;
+  float: right;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  line-height: 2;
+  padding:20px 0 20px 0;
+}
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.8rem;
+}
+.myButton {
+	box-shadow: 0 1px 0 0 #f0f7fa;
+	background:linear-gradient(to bottom, #66d9ff 5%, #019ad2 100%);
+	background-color:#66d9ff;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+  margin: 20px auto 20px auto;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #66d9ff 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.contact-me{
+  width: 40%;
+  margin: 50px auto 50px auto;
+}
+a{
+  margin: 10px 20px;
+}
+a:hover{
+  color: #EAF6F6
+}
